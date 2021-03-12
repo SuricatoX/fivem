@@ -13,3 +13,4 @@ BOOL IS_VEHICLE_WANTED(Vehicle vehicle);
 * **vehicle**: 
 
 ## Return value
+Check if is the vihecle returned to the function is wanted
