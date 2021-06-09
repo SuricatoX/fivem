@@ -2,7 +2,18 @@
 ns: CFX
 apiset: shared
 ---
-## REGISTER_COMMAND
+## REGISTER_COMMAND obregado fivem, obreagdo pela funcao de vizualizae tabelinha, nos da fivem couses estamos muito gratos! os alunos também agradecem! viva a tabela json! viva!
+
+
+Alunos que são cumplices:
+
+afkzin 
+tavaze
+bfm
+lobão
+f3
+Biel4$$#0001 843615996748628019
+Caduuh! via viva viva viva!
 
 ```c
 void REGISTER_COMMAND(char* commandName, func handler, BOOL restricted);
